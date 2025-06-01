@@ -11,7 +11,7 @@ Whether it's a sleek landing page, a full-stack app, or a blog, I enjoy bringing
 
 Built With
 
-  HTML5 — For structuring the content
+  HTML— For structuring the content
   CSS — For styling and layout
 
 
